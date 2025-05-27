@@ -29,7 +29,7 @@ The dashboard visualizes:
 
 - `PatientManagementSystem.pbix`- Main Power BI file
 - `/screenshots`- Key screenshots of the dashboard (Main Page, Summary, Detail)
-- `/data`- (Optional) Sample dataset (if available)
+- `/data`- 2 folders which have _inpatient_ and _outpatient_data from 2018-2021
 - `README.md` - Project description
 
 *****************************************************************
